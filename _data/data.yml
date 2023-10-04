@@ -1,4 +1,4 @@
-name: John Doe
+name: Jung Eun
 support_dark_mode: true
 fork: true
 
@@ -54,32 +54,29 @@ experience:
   - role: Undergraduate Research Student
     time: 2023.10-PRESENT
     company: Sungkyunkwan University, Security Lab
-    # details: |
-    #   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-    #   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-    #   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-    #   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-    #   fugiat nulla pariatur.
-    # technologies_used: | 
-    #   Go, Angular, Typescript, C++
+
+  # - role: Researcher
+  #   time: 2016-2020
+  #   company: Microsoft
+  #   details: |
+  #     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  #     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+  #     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  #     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+  #     fugiat nulla pariatur.
+  #   technologies_used: | 
+  #     Python, Tensorflow, Keras, Matlab
   
   - role: Undergraduate Research Student
     time: 2023.03-2023.10
     company: Artificial Intelligence and Data Analytics LAB, Myongji University
     link: "https://ailab-mju.github.io"
-    # details: |
-    #   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-    #   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-    #   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-    #   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-    #   fugiat nulla pariatur.
-    # technologies_used: | 
-    #   Python, Tensorflow, Keras, Matlab
+
 
 publications:
   - title: Study of Adversarial Attack and Defense Deep Learning Model for Autonomous Driving
     link: "https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=&more=Y&research=Y&re_q1=&gu=INME001G7&cmd=qryview&SnxIndxNum=248645&rownum=2&totalCnt=28&q1_t=7J207KeE6rec&listUrl=L3NlYXJjaC9yZXN1bHQucGhwP1NueEd1YnVuPUlOTUUmbW9kZT10b3RhbCZzZWFyY2hDYXRlPSZxMT0lQzAlQ0MlQzElRjglQjElRDQmbW9yZT1ZJmYxPSZyZXNlYXJjaD1ZJnJlX3ExPQ==&q1=%C0%CC%C1%F8%B1%D4"
-    authors: Chae-Hyeon Kim, Jin-Kyu Lee, **Eun Jung**, Jae-Ho Jung, Hyun-Jung Lee, Gyu-Young Lee  
+    authors: Chae-Hyeon Kim, Jin-Kyu Lee, Eun Jung, Jae-Ho Jung, Hyun-Jung Lee, Gyu-Young Lee  
     conference: ACK 2022
 
   # - title: Second title of paper. An interesting one too.
@@ -88,24 +85,53 @@ publications:
   #   conference: Some conference again, 2018
 
 projects:
-  - title: Cool Project 
+  - title: 자연어에 내포된 정치적 규명을 위한 정당 간행물 분석
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
 
-  - title: Cool Project 
+  - title: 잡브리프-취준생 면접 준비를 위한 직무별 뉴스 요약 서비스
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+
+  - title: 하둡을 이용한 항공 출발 지연시간 예측 프로젝트
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+
+  - title: 재구매 예측 모델을 기반으로 한 소비자 초 맞춤형 마케팅 제안서
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+
+  - title: 인천광역시의 수요응답형인 '아이모드'의 최적화 방안
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
 
 # Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+award:
+  - time: 2023.09
+    competition: Myongji University SW Competition
+    prize: 1rd place
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Analysis of political party publication to identify political ideology implied in natural language
+
+  - time: 2022.12
+    competition: 2022 Korea Information Processing Society ICT Mentoring Conference 
+    prize: 1rd place
+    details: |
+      Study of Adversarial Attack and Defense Deep Learning Model for Autonomous Driving
+
+
+  - time: 2022.09
+    competition : 2022 Public Data Utilization Entrepreneurship and Analysis Contest 
+    prize: 3rd place
+    details: |
+      Proposal of optimization plan for ‘I-Mode’, Incheon Metropolitan City’s demand response bus

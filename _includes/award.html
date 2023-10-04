@@ -1,14 +1,14 @@
-{% assign volunteering = site.data.data.volunteering %}
-{% if volunteering %}
+{% assign award = site.data.data.award %}
+{% if award %}
 <section class="volunteering">
-    <h2 class="title">Volunteering</h2>
-    {% for vol in volunteering %}
+    <h2 class="title">awards</h2>
+    {% for vol in award %}
         <div class="volunteering-item">
             <div class="role">
-                {{vol.role}}
+                {{vol.competition }}
             </div>
             <div class="organization">
-                {{vol.company}}
+                {{vol.prize}}
                 <span class="time">{{vol.time}}</span>
             </div>
             <div class="details">{{vol.details}}</div>    

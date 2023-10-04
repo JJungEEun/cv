@@ -5,11 +5,13 @@
     .volunteering-item {
         margin-bottom: 20px;
         .role {
-            @include sub-header;
+            text-decoration: none;
+            font-weight: bold;
+            @include body-text;
         }
         .organization {
             @include body-text;
-            font-weight: bold;
+          
             .time {
                 float: right;
                 color: var(--fg-color-title-sm);
