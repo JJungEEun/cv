@@ -64,9 +64,9 @@ experience:
     #   Go, Angular, Typescript, C++
   
   - role: Undergraduate Research Student
-    link: https://ailab-mju.github.io
     time: 2023.03-2023.10
     company: Artificial Intelligence and Data Analytics LAB, Myongji University
+    link: "https://ailab-mju.github.io"
     # details: |
     #   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
     #   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -77,15 +77,15 @@ experience:
     #   Python, Tensorflow, Keras, Matlab
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - title: Study of Adversarial Attack and Defense Deep Learning Model for Autonomous Driving
+    link: "https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=&more=Y&research=Y&re_q1=&gu=INME001G7&cmd=qryview&SnxIndxNum=248645&rownum=2&totalCnt=28&q1_t=7J207KeE6rec&listUrl=L3NlYXJjaC9yZXN1bHQucGhwP1NueEd1YnVuPUlOTUUmbW9kZT10b3RhbCZzZWFyY2hDYXRlPSZxMT0lQzAlQ0MlQzElRjglQjElRDQmbW9yZT1ZJmYxPSZyZXNlYXJjaD1ZJnJlX3ExPQ==&q1=%C0%CC%C1%F8%B1%D4"
+    authors: Chae-Hyeon Kim, Jin-Kyu Lee, **Eun Jung**, Jae-Ho Jung, Hyun-Jung Lee, Gyu-Young Lee  
+    conference: ACK 2022
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  # - title: Second title of paper. An interesting one too.
+  #   link: "#"
+  #   authors: John E. Doe
+  #   conference: Some conference again, 2018
 
 projects:
   - title: Cool Project 
