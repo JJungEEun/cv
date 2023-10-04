@@ -26,7 +26,7 @@ education:
     university: Myongji University
 
 skills:
-  - category: Backend
+  - category: 
     skill: 
       - Deep Learning
       - Adversarial Attack
@@ -51,29 +51,30 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+  - role: Undergraduate Research Student
+    time: 2023.10-PRESENT
+    company: Sungkyunkwan University, Security Lab
+    # details: |
+    #   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+    #   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+    #   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    #   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+    #   fugiat nulla pariatur.
+    # technologies_used: | 
+    #   Go, Angular, Typescript, C++
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+  - role: Undergraduate Research Student
+    link: https://ailab-mju.github.io
+    time: 2023.03-2023.10
+    company: Artificial Intelligence and Data Analytics LAB, Myongji University
+    # details: |
+    #   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+    #   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+    #   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    #   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+    #   fugiat nulla pariatur.
+    # technologies_used: | 
+    #   Python, Tensorflow, Keras, Matlab
 
 publications:
   - title: Random title of paper. An interesting one.
