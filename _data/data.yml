@@ -53,7 +53,9 @@ profile: |
 experience:
   - role: Undergraduate Research Student
     time: 2023.10-PRESENT
-    company: Sungkyunkwan University, Security Lab
+    company: Security Lab, Sungkyunkwan University
+    details: |
+        Related Topic: Adversarial Attack, Data-driven Security
 
   # - role: Researcher
   #   time: 2016-2020
@@ -70,7 +72,10 @@ experience:
   - role: Undergraduate Research Student
     time: 2023.03-2023.10
     company: Artificial Intelligence and Data Analytics LAB, Myongji University
-    link: "https://ailab-mju.github.io"
+    details: |
+          Related Topic: Computer Vision, Medical imaging, Adversarial Attack 
+
+    
 
 
 publications:
